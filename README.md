@@ -3,3 +3,6 @@ Former competitive programmer and frontend developer who writes Chrome extension
 
 [![ok](https://github-readme-stats.vercel.app/api/top-langs?username=cirex-web)](https://www.tomorrowtides.com/j2213.html)
 
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AnsonLai/MuseScore-Printer&type=Date)](https://star-history.com/#AnsonLai/MuseScore-Printer&Date)
