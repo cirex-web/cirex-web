@@ -6,7 +6,7 @@ I'm mostly a frontend dev who did CP back in the day.
 
 
 
-Favorite language: TS
+Favorite language: ~~Σ*~~ TS
 
 
 
