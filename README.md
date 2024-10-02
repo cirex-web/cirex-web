@@ -1,11 +1,11 @@
-![image](https://github.com/user-attachments/assets/5d5b3d08-2a00-4934-a1f2-87fbea88a71f)
+![image](https://github.com/user-attachments/assets/044fb4cd-f39f-4765-99a5-6036a45ae7e2)
 
 
 > [!TIP]
-> Did you know markdown on github could do this? I didn't
+> Your Lie in April is a top-tier anime to watch - esp. if you are/were a muscician. 
 
-# Hey!
-I'm mostly a frontend dev who did CP back in the day.
+# Hey! I'm Eric Xu
+I'm a frontend/backend dev (one may even say fullstack at this point...) who did CP back in the day.
 
 
 
