@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/044fb4cd-f39f-4765-99a5-6036a45ae7e2)
 
 
 > [!TIP]
