@@ -1,8 +1,3 @@
-
-
-> [!TIP]
-> Your Lie in April is a top-tier anime to binge watch at some point in your life - esp. if you are/were a musician. It's stunning.
-
 # Hey! I'm Eric Xu
 I'm a frontend/backend dev (one may even say fullstack at this point...) who did CP back in the day.
 
