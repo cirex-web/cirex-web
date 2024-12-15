@@ -3,7 +3,9 @@ I'm a frontend/backend dev (one may even say fullstack at this point...) who did
 
 
 Favorite language: TS
+
 Least favorite language: JS
+
 Okay language: SML
 
 
