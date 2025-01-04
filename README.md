@@ -10,4 +10,6 @@ Least favorite language: JS
 Okay language: SML
 
 [![ok](https://github-readme-stats.vercel.app/api/top-langs?username=cirex-web)](https://www.tomorrowtides.com/j2213.html)
-[![f](https://media.tenor.com/Eq5geCdgHGwAAAAM/oshi-no-ko.gif)](https://media.tenor.com/Eq5geCdgHGwAAAAM/oshi-no-ko.gif)
+
+
+![image](https://github.com/user-attachments/assets/400371fe-5f46-4f7d-9ae8-ffbed08c8390)
