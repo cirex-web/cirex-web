@@ -1,6 +1,6 @@
 
 # Hey! I'm Eric Xu
-I'm a frontend/backend dev (one may even say fullstack at this point...) who did CP (no, not that one) back in the day. 
+I'm a frontend/backend dev (one may even say fullstack at this point...) who did CP (no, not _that_ one) back in the day. 
 
 
 Favorite language: TS
