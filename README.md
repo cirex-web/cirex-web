@@ -12,4 +12,4 @@ Okay language: SML
 [![ok](https://github-readme-stats.vercel.app/api/top-langs?username=cirex-web)](https://www.tomorrowtides.com/j2213.html)
 
 
-I don't use Copilot - we really shouldn't be abstracting away the entire coding, debugging, hand-banging, deep-thinking process that makes programming programming.
+I don't use Copilot or Cursor - we really shouldn't be abstracting away the entire coding, debugging, hand-banging, deep-thinking process that makes programming programming.
