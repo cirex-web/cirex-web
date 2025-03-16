@@ -16,4 +16,8 @@ I don't use Copilot or Cursor - we really shouldn't be abstracting away the enti
 
 
 # YOOOo what is this thing
-<img src="http://moe.tans.fun/@cirex-web" alt="cirex-web" />
+<p align="center">
+  <a href="https://count.getloli.com" target="_blank">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@cirex-web?name=cirex-web&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+  </a>
+</p>
