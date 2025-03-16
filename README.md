@@ -13,3 +13,7 @@ Okay language: SML
 
 
 I don't use Copilot or Cursor - we really shouldn't be abstracting away the entire coding, debugging, hand-banging, deep-thinking process that makes programming programming.
+
+
+# YOOOo what is this thing
+<img src="http://moe.tans.fun/@cirex-web" alt="cirex-web" />
