@@ -1,7 +1,6 @@
 
 # Hey! I'm Eric Xu
-if you ever feel like life is terrible, just remember that u can code :)
-
+if you ever feel like life is terrible, you're probably right :)
 
 ## Times I have visited my own profile
 <p align="center">
