@@ -1,6 +1,6 @@
 
 # Hey! I'm Eric Xu
-if you ever feel like life is terrible, you're probably right :)
+If you feel like life is terrible, hold on for just a bit longer. Not in faith that things will get better, but in the faith that you can learn to accept whatever goes your way.
 
 ## Times I have visited my own profile
 <p align="center">
