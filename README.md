@@ -1,6 +1,6 @@
 
 # Hey! I'm Eric Xu
-If you feel like life is terrible, hold on for just a bit longer. Not in faith that things will get better, but in the faith that you can learn to accept whatever goes your way.
+If you feel like life is terrible, hold on for just a bit longer. Not in faith that things will get better, but in the faith that today's hardships will become tomorrow's shield.
 
 <img width="910" height="504" alt="image" src="https://github.com/user-attachments/assets/b16b7630-17e2-4c25-81e6-134ded5b48ff" />
 
