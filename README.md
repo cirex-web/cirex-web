@@ -12,3 +12,7 @@ Frontend dev for the most part. (React, Typescript, CSS) Can do backend if force
     <img alt="Moe Counter!" src="https://count.getloli.com/@cirex-web?name=cirex-web&theme=booru-lewd&padding=7&offset=0&align=top&scale=2&pixelated=0&darkmode=auto">
   </a>
 </p>
+
+intern application season? huh? what?
+
+<img width="901" height="548" alt="image" src="https://github.com/user-attachments/assets/32099975-af4a-4f4f-916f-1d73ecd6a54b" />
