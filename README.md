@@ -13,6 +13,5 @@ Frontend dev for the most part. (React, Typescript, CSS) Can do backend if force
   </a>
 </p>
 
-intern application season? huh? what?
-
+When the realization that we live in a capitalistic society hits a bit too hard.
 <img width="901" height="548" alt="image" src="https://github.com/user-attachments/assets/32099975-af4a-4f4f-916f-1d73ecd6a54b" />
