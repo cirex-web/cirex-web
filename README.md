@@ -3,6 +3,11 @@
 
 Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P 
 
+> [!TIP]
+> That which exists is better than that which does not exist. Therefore an imperfect product that actually exists must be better than endlessly tweaking hypothetical shit to perfection.
+
+
+
 <img width="910" height="504" alt="image" src="https://github.com/user-attachments/assets/b16b7630-17e2-4c25-81e6-134ded5b48ff" />
 
 
