@@ -4,6 +4,9 @@
 Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P 
 
 > [!NOTE]
+> This moment is the youngest you’ll ever be. It’s a moment your future-selves will wish they could have back. Don’t waste it scrolling through posts you won’t even remember tomorrow.
+
+> [!NOTE]
 > That which exists is better than that which does not exist. Therefore an imperfect product that actually exists must be better than endlessly tweaking hypothetical shit to perfection.
 
 > [!NOTE]
