@@ -3,11 +3,14 @@
 
 Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P 
 
-> [!TIP]
+> [!NOTE]
 > That which exists is better than that which does not exist. Therefore an imperfect product that actually exists must be better than endlessly tweaking hypothetical shit to perfection.
 
 > [!NOTE]
 > Your job is not to lock the doors and chisel at yourself like a marble statue in the darkness until you feel quantifiably worthy of the world outside. Your job, really, is to find people who love you for reasons you hardly understand, and to love them back, and to try as hard as you can to make it all easier for each other.
+
+> [!NOTE]
+> Modern research is starting to confirm what the ancients had long known; that reminding yourself that you’ll die doesn’t typically increase anxiety for the future (it might actually reduce it), but it does increase appreciation for the present. Without remembering our own impermanence, we’re liable to live as if we’d never die, and hence, die as if we’d never lived.
 
 <img width="910" height="504" alt="image" src="https://github.com/user-attachments/assets/b16b7630-17e2-4c25-81e6-134ded5b48ff" />
 
