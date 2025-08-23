@@ -17,7 +17,7 @@ Frontend dev for the most part. (React, Typescript, CSS) Can do backend if force
 
 <img width="910" height="504" alt="image" src="https://github.com/user-attachments/assets/b16b7630-17e2-4c25-81e6-134ded5b48ff" />
 
-Call me naive and idealistic, but I wish to see the internet become a place to empower people to effect change in the real world rather than a place that justifies and propagates its own existence purely through engagement metrics - a phenonmenon commonly seen as an endless scroll through the mind-numbing, eye-catching content that trades your agency and self-thinking for shallow pleasure and shareholder profits.
+Call me naive and idealistic, but I wish to see the internet become a place to empower people to effect change in the real world rather than a place that justifies and propagates its own existence purely through engagement metrics - a phenomenon commonly seen as an endless scroll through the mind-numbing, eye-catching content that trades your agency and self-thinking for shallow pleasure and shareholder profits.
 
 ## huh
 <p align="center">
