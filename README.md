@@ -3,17 +3,13 @@
 
 Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P 
 
-> [!NOTE]
+> there's a trivial yet profound insight about software engineering, which is that it's mostly just detail orientation. there's almost no conceptual complexity, just many many details. if you can't write software it's mostly because you don't care enough about the details.
+> This is contrast to fields like math and physics where there are load-bearing big insights to grok. but i'm still surprised when I look at a big software system how little of the code is conceptually deep. it's just "doing the obvious thing" a million times across the stack
+
 > This moment is the youngest you’ll ever be. It’s a moment your future-selves will wish they could have back. Don’t waste it scrolling through posts you won’t even remember tomorrow.
 
-> [!NOTE]
-> That which exists is better than that which does not exist. Therefore an imperfect product that actually exists must be better than endlessly tweaking hypothetical shit to perfection.
-
-> [!NOTE]
 > Your job is not to lock the doors and chisel at yourself like a marble statue in the darkness until you feel quantifiably worthy of the world outside. Your job, really, is to find people who love you for reasons you hardly understand, and to love them back, and to try as hard as you can to make it all easier for each other.
 
-> [!NOTE]
-> Modern research is starting to confirm what the ancients had long known; that reminding yourself that you’ll die doesn’t typically increase anxiety for the future (it might actually reduce it), but it does increase appreciation for the present. Without remembering our own impermanence, we’re liable to live as if we’d never die, and hence, die as if we’d never lived.
 
 <img width="910" height="504" alt="image" src="https://github.com/user-attachments/assets/b16b7630-17e2-4c25-81e6-134ded5b48ff" />
 
