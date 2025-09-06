@@ -3,6 +3,10 @@
 
 Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P 
 
+Here's some quotes I like:
+
+> Web development very often involves picking the least suboptimal approach to getting the job done until a better solution is devised.
+
 > there's a trivial yet profound insight about software engineering, which is that it's mostly just detail orientation. there's almost no conceptual complexity, just many many details. if you can't write software it's mostly because you don't care enough about the details.
 > This is contrast to fields like math and physics where there are load-bearing big insights to grok. but i'm still surprised when I look at a big software system how little of the code is conceptually deep. it's just "doing the obvious thing" a million times across the stack
 
