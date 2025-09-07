@@ -3,7 +3,7 @@
 
 Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P 
 
-Here's some quotes I like:
+Here are some quotes I like:
 
 > Web development very often involves picking the least suboptimal approach to getting the job done until a better solution is devised.
 
