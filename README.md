@@ -27,5 +27,5 @@ Here are some quotes I like:
   </a>
 </p>
 
-When the realization that we live in a capitalistic society hits a bit too hard.
-<img width="901" height="548" alt="image" src="https://github.com/user-attachments/assets/32099975-af4a-4f4f-916f-1d73ecd6a54b" />
+<img width="613" height="448" alt="Screenshot 2025-09-07 at 12 28 19 PM" src="https://github.com/user-attachments/assets/59921cf7-c7be-4115-8c51-44ec25768d21" />
+
