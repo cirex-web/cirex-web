@@ -5,7 +5,7 @@ Frontend dev for the most part. (React, Typescript, CSS) Can do backend if force
 
 Here are some quotes I like:
 
-> If writing code for fun is like settling into a nice hot bath, writing code for work is like taking a shower, except that the temperature and water pressure fluctuate every few seconds. - Me
+> If writing code for fun is like settling into a nice hot bath, writing code for work is like taking a shower, except that the temperature and water pressure fluctuate every few seconds and the water sometimes shuts off completely. I'm not sure if CS majors can relate to this analogy, however. - Me
 
 > Web development very often involves picking the least suboptimal approach to getting the job done until a better solution is devised.
 
