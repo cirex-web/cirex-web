@@ -4,6 +4,8 @@
 Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P 
 
 Here are some quotes I like:
+> Our brains haven't caught up to the fact that someone else's success doesn't diminish our chances of success. In the tribal world, resources were zero-sum. In the digital world, they're often not. But try telling that to your amygdala.
+
 
 > Web development very often involves picking the least suboptimal approach to getting the job done until a better solution is devised.
 
