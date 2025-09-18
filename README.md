@@ -1,7 +1,7 @@
 
 # Hey! I'm Eric Xu
 
-Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P 
+Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P I've interned at Bloomberg like three times at this point, uhhhhh I've worked with Po Shen Loh on developing his competitive math game for a bit, and I'm currently spending all my free time on https://cmueats.com and https://scottylabs.org
 
 Here are some quotes I like:
 > Our brains haven't caught up to the fact that someone else's success doesn't diminish our chances of success. In the tribal world, resources were zero-sum. In the digital world, they're often not. But try telling that to your amygdala.
