@@ -1,3 +1,8 @@
+# IT'S SO OVER 
+<img width="910" height="262" alt="image" src="https://github.com/user-attachments/assets/d76bf21a-80c1-40f8-ad85-d08325153bb5" />
+
+<img width="754" height="297" alt="IMG_2520" src="https://github.com/user-attachments/assets/36235769-6599-4437-bcb8-182ee27ce994" />
+
 
 # Hey! I'm Eric Xu
 
