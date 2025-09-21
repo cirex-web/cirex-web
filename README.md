@@ -6,7 +6,7 @@
 
 # Hey! I'm Eric Xu
 
-Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P I've interned at Bloomberg like three times at this point, uhhhhh I've worked with Po Shen Loh on developing his competitive math game for a bit, and I'm currently spending all my free time on https://cmueats.com and https://scottylabs.org
+Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P I've interned at Bloomberg like three times at this point, I've worked with Po Shen Loh on developing his competitive math game for a bit, and I'm currently spending all my free time on https://cmueats.com and https://scottylabs.org
 
 Here are some quotes I like:
 > Once we believe that art is self-expression, then the individual can be criticised not only for his skill or lack of skill, but simply for being what he is.
