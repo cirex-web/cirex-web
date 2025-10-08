@@ -3,6 +3,8 @@
 Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P I've interned at Bloomberg like three times at this point, I've worked with Po Shen Loh on developing his competitive math game for a bit, and I'm currently spending all my free time on https://cmueats.com and https://scottylabs.org
 
 Here are some quotes I like:
+> One of the most interesting things we've discovered from working on Y Combinator is that founders are more motivated by the fear of looking bad than by the hope of getting millions of dollars. So if you want to get millions of dollars, put yourself in a position where failure will be public and humiliating.
+
 > Once we believe that art is self-expression, then the individual can be criticised not only for his skill or lack of skill, but simply for being what he is.
 
 > Our brains haven't caught up to the fact that someone else's success doesn't diminish our chances of success. In the tribal world, resources were zero-sum. In the digital world, they're often not. But try telling that to your amygdala.
