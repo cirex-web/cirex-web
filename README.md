@@ -30,3 +30,8 @@ Here are some quotes I like:
   </a>
 </p>
 
+
+You've reached the bottom!
+
+<img width="312" height="185" alt="image" src="https://github.com/user-attachments/assets/5af8c57e-4223-4ef1-ad07-be462bd72cf7" />
+
