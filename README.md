@@ -28,7 +28,7 @@ Here are some quotes I like:
 ## huh
 <p align="center">
   <a href="https://count.getloli.com" target="_blank">
-    <img alt="Moe Counter!" src="https://count.getloli.com/@cirex-web?name=cirex-web&theme=booru-lewd&padding=7&offset=0&align=top&scale=2&pixelated=0&darkmode=auto">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@cirex-web?name=cirex-web&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto">
   </a>
 </p>
 
