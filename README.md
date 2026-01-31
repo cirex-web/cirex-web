@@ -1,9 +1,13 @@
 # Hey! I'm Eric Xu
 
-Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P I've interned at Bloomberg like three times at this point, I've worked with Po Shen Loh on developing his competitive math game for a bit, and I'm currently spending all my free time on https://cmueats.com and https://scottylabs.org (not that I have any left...)
+Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P
+
+
+https://github.com/user-attachments/assets/9255b6cb-10ad-4bb1-b0a1-b34330aae2da
+
+
 
 Here are some quotes I like:
-<img width="824" height="150" alt="image" src="https://github.com/user-attachments/assets/00e70fad-bfb9-4c42-b5b7-f71f9ddca627" />
 
 > One of the most interesting things we've discovered from working on Y Combinator is that founders are more motivated by the fear of looking bad than by the hope of getting millions of dollars. So if you want to get millions of dollars, put yourself in a position where failure will be public and humiliating.
 
