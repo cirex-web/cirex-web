@@ -2,8 +2,7 @@
 
 Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P
 
-
-https://github.com/user-attachments/assets/9255b6cb-10ad-4bb1-b0a1-b34330aae2da
+<img width="959" height="124" alt="image" src="https://github.com/user-attachments/assets/e9a232dc-a665-4530-8c7e-e80a9fac04ed" />
 
 
 
