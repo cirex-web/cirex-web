@@ -38,3 +38,9 @@ Here are some quotes I like:
   </a>
 </p>
 
+
+
+https://github.com/user-attachments/assets/b6fa3397-55bd-4c1a-ba72-eef284e087f5
+
+
+
