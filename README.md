@@ -28,7 +28,8 @@ Here are some quotes I like:
 > Your job is not to lock the doors and chisel at yourself like a marble statue in the darkness until you feel quantifiably worthy of the world outside. Your job, really, is to find people who love you for reasons you hardly understand, and to love them back, and to try as hard as you can to make it all easier for each other.
 
 
-<img width="910" height="504" alt="image" src="https://github.com/user-attachments/assets/b16b7630-17e2-4c25-81e6-134ded5b48ff" />
+<!-- <img width="910" height="504" alt="image" src="https://github.com/user-attachments/assets/b16b7630-17e2-4c25-81e6-134ded5b48ff" /> -->
+<img width="233" height="88" alt="image" src="https://github.com/user-attachments/assets/d6a7c363-daa1-4eff-b608-31f7b35efcf3" />
 
 
 ## huh
