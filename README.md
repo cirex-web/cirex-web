@@ -1,7 +1,7 @@
 # Hey! I'm Eric Xu
 
 <p align="center">
-<img width="476" height="974" alt="image" src="https://github.com/user-attachments/assets/35bd5508-e5c3-468a-9131-455fad961114" />
+<!-- <img width="476" height="974" alt="image" src="https://github.com/user-attachments/assets/35bd5508-e5c3-468a-9131-455fad961114" /> -->
 </p>
 Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P
 
