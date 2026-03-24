@@ -44,4 +44,28 @@ Here are some quotes I like:
 https://github.com/user-attachments/assets/b6fa3397-55bd-4c1a-ba72-eef284e087f5
 
 
+## Tech stack:
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/cd5ac93f-3739-45d7-9724-5e170173780f" />
+
+
+
 
