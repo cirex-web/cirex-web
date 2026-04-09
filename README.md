@@ -5,7 +5,7 @@
 </p>
 Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P
 
-<img width="959" height="124" alt="image" src="https://github.com/user-attachments/assets/e9a232dc-a665-4530-8c7e-e80a9fac04ed" />
+<img width="1280" height="352" alt="image" src="https://github.com/user-attachments/assets/b2571b64-5cb2-4827-93aa-981b9dd974e4" />
 
 
 
