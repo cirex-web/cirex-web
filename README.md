@@ -5,13 +5,11 @@
 </p>
 Frontend dev for the most part. (React, Typescript, CSS) Can do backend if forced to though (Kotlin, c++, Typescript). :P
 
-<img width="1280" height="352" alt="image" src="https://github.com/user-attachments/assets/b2571b64-5cb2-4827-93aa-981b9dd974e4" />
-
-
-
 Here are some quotes I like:
 
-> One of the most interesting things we've discovered from working on Y Combinator is that founders are more motivated by the fear of looking bad than by the hope of getting millions of dollars. So if you want to get millions of dollars, put yourself in a position where failure will be public and humiliating.
+<img width="1280" height="352" alt="image" src="https://github.com/user-attachments/assets/b2571b64-5cb2-4827-93aa-981b9dd974e4" />
+<img width="1280" height="463" alt="image" src="https://github.com/user-attachments/assets/9620e3a8-c8db-4c91-9a89-0d2d054a2b1c" />
+
 
 > Once we believe that art is self-expression, then the individual can be criticised not only for his skill or lack of skill, but simply for being what he is.
 
