@@ -7,8 +7,7 @@ Frontend dev for the most part. (React, Typescript, CSS) Can do backend if force
 
 Here are some quotes I like:
 
-> If you're reading this, you've been in a coma for almost 20 years now. We're trying a new technique. We don't know where this message will end up in your dream, but we hope it works. Please wake up, we miss you.
-
+> I am here to be rude, because this is a rude technology, and it deserves a rude response. Miyazaki said, “I strongly feel that this is an insult to life itself.” Scam Altman said we can surround the solar system with a Dyson Sphere to hold data centers. Miyazaki is right, and Altman is wrong. Miyazaki tells stories that blend the ordinary and the fantastic in ways people find deeply meaningful. Altman tells lies for money.
 <img width="1280" height="352" alt="image" src="https://github.com/user-attachments/assets/b2571b64-5cb2-4827-93aa-981b9dd974e4" />
 <img width="1280" height="463" alt="image" src="https://github.com/user-attachments/assets/9620e3a8-c8db-4c91-9a89-0d2d054a2b1c" />
 
