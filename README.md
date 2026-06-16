@@ -5,8 +5,9 @@
 </p>
 
 ~Frontend~ Fullstack dev for the most part. (React, Typescript, Elixir)
+<details>
+<summary>Here are some quotes I like:</summary>
 
-Here are some quotes I like:
 > I've written enough code in enough languages to know that the language is rarely the bottleneck. The bottleneck is usually the problem itself, or the team's understanding of it, or the architecture, or the requirements that keep changing. Arguing about syntax and compile times is a distraction from the real work.
 
 
@@ -33,6 +34,7 @@ Here are some quotes I like:
 <!-- <img width="910" height="504" alt="image" src="https://github.com/user-attachments/assets/b16b7630-17e2-4c25-81e6-134ded5b48ff" /> -->
 <img width="233" height="88" alt="image" src="https://github.com/user-attachments/assets/d6a7c363-daa1-4eff-b608-31f7b35efcf3" />
 
+</details>
 
 ## huh
 <p align="center">
@@ -43,7 +45,7 @@ Here are some quotes I like:
 
 
 
-https://github.com/user-attachments/assets/b6fa3397-55bd-4c1a-ba72-eef284e087f5
+https://github.com/user-attachments/assets/5bba0532-1cae-40f1-93af-d8a5d55b1255
 
 
 ## Tech stack:
