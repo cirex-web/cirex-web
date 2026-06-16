@@ -8,6 +8,12 @@
 <details>
 <summary>Here are some quotes I like:</summary>
 
+> It begins to feel like a broad celebration of mediocrity. Finally, society says, with a huge sigh of relief. I don’t have to write a letter to my granddaughter. I don’t have to write a three-line fetch call. I don’t have to know anything, care about what I’m doing, or even have an opinion.
+> 
+> I can just substitute some Content™. I can just ask the computer for Whatever
+> 
+> But I like programming. I like writing. I like making things and then being able to sit back and look at them and think, holy fuck, I made that. There is no joy for me in typing a vague description into a computer and refreshing my way through a parade of Whatever until something is good enough.
+
 > I've written enough code in enough languages to know that the language is rarely the bottleneck. The bottleneck is usually the problem itself, or the team's understanding of it, or the architecture, or the requirements that keep changing. Arguing about syntax and compile times is a distraction from the real work.
 
 
