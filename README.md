@@ -16,6 +16,7 @@
 
 > I've written enough code in enough languages to know that the language is rarely the bottleneck. The bottleneck is usually the problem itself, or the team's understanding of it, or the architecture, or the requirements that keep changing. Arguing about syntax and compile times is a distraction from the real work.
 
+<img width="946" height="148" alt="image" src="https://github.com/user-attachments/assets/1d39e5e3-f720-479d-bce5-2a8427ef5028" />
 
 > I am here to be rude, because this is a rude technology, and it deserves a rude response. Miyazaki said, “I strongly feel that this is an insult to life itself.” Scam Altman said we can surround the solar system with a Dyson Sphere to hold data centers. Miyazaki is right, and Altman is wrong. Miyazaki tells stories that blend the ordinary and the fantastic in ways people find deeply meaningful. Altman tells lies for money.
 <img width="1280" height="352" alt="image" src="https://github.com/user-attachments/assets/b2571b64-5cb2-4827-93aa-981b9dd974e4" />
