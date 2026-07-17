@@ -5,6 +5,7 @@
 </p>
 
 ~Frontend~ Fullstack dev for the most part. (React, Typescript, Elixir)
+<img width="929" height="160" alt="image" src="https://github.com/user-attachments/assets/24b3f74b-41e1-4bc9-9d04-123b765d1a4a" />
 
 
 ## Number of times this image has been loaded
