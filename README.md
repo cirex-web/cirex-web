@@ -3,8 +3,9 @@
 <p align="center">
 <!-- <img width="476" height="974" alt="image" src="https://github.com/user-attachments/assets/35bd5508-e5c3-468a-9131-455fad961114" /> -->
 </p>
+21 years ago, I didn't exist. You seem to have caught me at the right time in the right place!
 
-~Frontend~ Fullstack dev for the most part. (React, Typescript, Elixir)
+Fullstack dev for the most part. (React, Typescript, Elixir)
 <img width="929" height="160" alt="image" src="https://github.com/user-attachments/assets/24b3f74b-41e1-4bc9-9d04-123b765d1a4a" />
 
 
