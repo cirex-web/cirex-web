@@ -42,3 +42,5 @@ Fullstack dev for the most part. (React, Typescript, Elixir)
 
 <img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/bf477ee2-7167-40bf-8a7e-f7d5e95bf68e" />
 
+<img width="672" height="146" alt="image" src="https://github.com/user-attachments/assets/83400a12-0bba-494f-a233-907f7d8c5528" />
+
